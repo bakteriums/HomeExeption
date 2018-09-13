@@ -3,8 +3,7 @@ import java.util.*;
 
 public class Main {
 
-    public Reference ls;
-
+  
     public static void main(String[] args) {
         List<Integer> ls = new ArrayList<Integer>();
         Scanner sc = new Scanner(System.in);
